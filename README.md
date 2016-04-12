@@ -5,8 +5,11 @@ Well, this is a small utility to upload images to Imgur. Build using Python2, Im
 Update apikey and clientkey to your keys from [Imgur](http://api.imgur.com/oauth2/addclient) in the source file.
 
 Python2 - because I'm shit at python and I'm still learning it
+
 Imgur's API - ...
+
 scrot - to create the Screenshot
+
 xsel - to save the url to clipboard
 
 That's about all for now, feel free to make better as I'm sure I will in the future.
