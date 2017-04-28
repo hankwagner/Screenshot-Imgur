@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 # Author Hank Wagner
-# Twitter nulledwizard
-# GitHub lolwtfbbq
+# Twitter ech0dox
+# GitHub ech0dox
 # License WTFPL
 # Version 1 (April 11, 2016)
 
